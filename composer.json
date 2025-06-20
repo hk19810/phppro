@@ -5,7 +5,7 @@
     "license": "MIT",
     "require": {
         "monolog/monolog": "^2.0",
-        "guzzlehttp/guzzle": ""7.0.0 - 7.4.4"",
+        "guzzlehttp/guzzle": "7.0.0 - 7.4.4",  // This will include the vulnerable versions
         "ramsey/uuid": "4.*",
         "symfony/console": "5.4.*"
     },
@@ -26,4 +26,3 @@
         "sort-packages": true
     }
 }
- 
